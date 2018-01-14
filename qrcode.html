@@ -27,7 +27,7 @@
 					<div class="form-group form-group-sm">
 						<label class="control-label col-md-2">二维码内容</label>
 						<div class="col-md-10">
-							<textarea name="txtContent" id="txtContent" rows="2" class="form-control input-normal" placeholder=""></textarea>
+							<textarea name="txtContent" id="txtContent" rows="5" class="form-control input-normal" placeholder=""></textarea>
 						</div>
 					</div>
 
@@ -67,8 +67,8 @@
 	// 设置 qrcode 参数
 	var qrcode = new QRCode('qrcode', {
 		text: 'http://www.guozhihui.top/',
-		width: 256,
-		height: 256,
+		width: 192,
+		height: 192,
 		colorDark: '#000000',
 		colorLight: '#ffffff',
 		correctLevel: QRCode.CorrectLevel.H
