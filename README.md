@@ -4,3 +4,4 @@ html示例代码
 ### <a href="https://huidge.github.io/HTML_Module/cart.html">加入购物车</a>
 ### <a href="https://huidge.github.io/HTML_Module/TheMatrix.html">黑客帝国代码雨</a>
 ### <a href="https://huidge.github.io/HTML_Module/MagicBackground.html">魔幻网页背景</a>
+### <a href="https://huidge.github.io/HTML_Module/qrcode.html">二维码在线生成工具</a>
